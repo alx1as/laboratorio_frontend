@@ -1,4 +1,5 @@
-const API = "http://127.0.0.1:5000/api";
+const API = "https://lab12345-asbfanh9h5csdnc0.eastus2-01.azurewebsites.net/api";
+
 
 
 export async function apiGet(path) {
