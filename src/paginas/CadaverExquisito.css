@@ -1,0 +1,124 @@
+/* CONTENEDOR PRINCIPAL */
+.cadaver-contenedor {
+  max-width: 640px;
+  margin: 60px auto;
+  padding: 40px 50px;
+  background: #ffffff;
+  border: 1px solid #eaeaea;
+  border-radius: 0;
+  font-family: 'Playfair Display', serif;
+  color: #222;
+}
+
+/* TÍTULO */
+.titulo {
+  font-size: 2.8rem;
+  font-weight: 900;
+  text-align: center;
+  margin-bottom: 30px;
+  color: #111;
+  letter-spacing: 1px;
+}
+
+/* CARGANDO */
+.cargando {
+  text-align: center;
+  padding: 40px;
+  font-size: 1.2rem;
+  color: #555;
+}
+
+/* PISTA */
+.pista-label {
+  text-align: center;
+  font-size: 1.1rem;
+  color: #777;
+}
+
+.pista {
+  text-align: center;
+  font-size: 3rem;
+  margin: 10px 0 30px;
+  font-weight: 900;
+  color: #111;
+}
+
+/* INPUT */
+.input-zona {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 25px;
+  flex-wrap: wrap;
+}
+
+.input-zona input {
+  flex: 1;
+  border: none;
+  border-bottom: 2px solid #111;
+  padding: 10px 6px;
+  font-size: 1.1rem;
+  background: transparent;
+}
+
+.input-zona input:focus {
+  outline: none;
+  border-bottom-color: #555;
+}
+
+/* BOTONES EDITORIALES */
+.btn-iniciar,
+.btn-agregar,
+.btn-finalizar {
+  border: 1px solid #111;
+  background: transparent;
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: 0.25s;
+  font-family: inherit;
+}
+
+.btn-iniciar:hover,
+.btn-agregar:hover,
+.btn-finalizar:hover {
+  background: #111;
+  color: #fff;
+}
+
+/* LISTA DE VERSOS */
+.versos-lista {
+  margin-top: 35px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.verso-item {
+  padding: 14px 4px;
+  border-bottom: 1px solid #ddd;
+  font-style: italic;
+  font-size: 1.1rem;
+}
+.cadaver-info {
+  margin-top: 28px;
+  padding: 18px 22px;
+  border: 1px solid #e5e5e5;
+  border-radius: 8px;
+  background: #faf9f7;
+}
+
+.info-label {
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: #333;
+  letter-spacing: 0.3px;
+}
+
+.info-dato {
+  font-family: "Playfair Display", serif;
+  font-size: 1.1rem;
+  margin-top: 4px;
+  color: #111;
+  letter-spacing: 0.2px;
+}

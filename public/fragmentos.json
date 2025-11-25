@@ -1,0 +1,426 @@
+{
+  "quotes": [
+    { "id": 1, "author": "Alfonsina Storni", "book": "", "quote": "Hombre pequeñito que jaula me das." },
+    { "id": 2, "author": "Alfonsina Storni", "book": "", "quote": "Me resisto, pero me tienes toda." },
+    { "id": 3, "author": "Gabriela Mistral", "book": "", "quote": "El futuro de los niños es siempre hoy." },
+    { "id": 4, "author": "Gabriela Mistral", "book": "", "quote": "Hay sonrisas que lloran con bondad." },
+    { "id": 5, "author": "Sor Juana Inés de la Cruz", "book": "", "quote": "Hombres necios que acusáis sin razón." },
+    { "id": 6, "author": "Sor Juana Inés de la Cruz", "book": "", "quote": "No estudio por saber más, sino por ignorar menos." },
+    { "id": 7, "author": "Isabel Allende", "book": "", "quote": "La muerte no existe si alguien te recuerda." },
+    { "id": 8, "author": "Isabel Allende", "book": "", "quote": "La vida prueba nuestra fuerza secreta." },
+    { "id": 9, "author": "Anaïs Nin", "book": "", "quote": "Vemos lo que somos." },
+    { "id": 10, "author": "Anaïs Nin", "book": "", "quote": "La vida se expande con el coraje." },
+    { "id": 11, "author": "Jane Austen", "book": "", "quote": "A veces callo porque no hay lenguaje posible." },
+    { "id": 12, "author": "Jane Austen", "book": "", "quote": "Las cicatrices confirman nuestra historia." },
+    { "id": 13, "author": "Frida Kahlo", "book": "", "quote": "Yo te cielo." },
+    { "id": 14, "author": "Virginia Woolf", "book": "", "quote": "Mi mente no admite cerrojos." },
+    { "id": 15, "author": "Sylvia Plath", "book": "", "quote": "Si no esperas nada, no te decepcionas." },
+    { "id": 16, "author": "Mary Shelley", "book": "", "quote": "El mal suele disfrazarse de felicidad." },
+    { "id": 17, "author": "Emily Brontë", "book": "", "quote": "Nuestras almas tienen la misma sustancia." },
+    { "id": 18, "author": "Virginia Woolf", "book": "", "quote": "Hace falta una habitación propia." },
+    { "id": 19, "author": "Emily Dickinson", "book": "", "quote": "Nos medimos cuando nos ponemos de pie." },
+    { "id": 20, "author": "Simone de Beauvoir", "book": "", "quote": "Que nada nos defina." },
+    { "id": 21, "author": "Simone de Beauvoir", "book": "", "quote": "No se nace mujer: se llega a serlo." },
+    { "id": 22, "author": "Clarice Lispector", "book": "Inspirado", "quote": "Arde lo que no digo." },
+    { "id": 23, "author": "Clarice Lispector", "book": "Inspirado", "quote": "Lo indescifrable también respira." },
+    { "id": 24, "author": "Mariana Enríquez", "book": "Inspirado", "quote": "Lo que quema también ilumina." },
+    { "id": 25, "author": "Mariana Enríquez", "book": "Inspirado", "quote": "Hay noches que no te sueltan." },
+    { "id": 26, "author": "Cristina Peri Rossi", "book": "Inspirado", "quote": "El deseo es un idioma secreto." },
+    { "id": 27, "author": "Cristina Peri Rossi", "book": "Inspirado", "quote": "Te pienso y se mueve el mundo." },
+    { "id": 28, "author": "Idea Vilariño", "book": "", "quote": "No tengo más que mi dolor." },
+    { "id": 29, "author": "Idea Vilariño", "book": "", "quote": "Que te quedes no lo espero." },
+    { "id": 30, "author": "Alejandra Pizarnik", "book": "", "quote": "Esa sombra soy yo." },
+    { "id": 31, "author": "Alejandra Pizarnik", "book": "", "quote": "La noche se abre como un párpado." },
+    { "id": 32, "author": "Juana Bignozzi", "book": "", "quote": "No supe ser otra cosa que mujer." },
+    { "id": 33, "author": "Alfonsina Storni", "book": "", "quote": "Se me escapa la vida por los ojos." },
+    { "id": 34, "author": "Clarice Lispector", "book": "Inspirado", "quote": "El cuerpo sabe antes que el pensamiento." },
+    { "id": 35, "author": "Virginia Woolf", "book": "", "quote": "Todo temblor es comienzo." },
+    { "id": 36, "author": "Pizarnik (inspirado)", "book": "", "quote": "Me sueño para existir." },
+    { "id": 37, "author": "Nin (inspirado)", "book": "", "quote": "El deseo escribe en la piel." },
+    { "id": 38, "author": "Peri Rossi (inspirado)", "book": "", "quote": "Tu voz me sostiene el mundo." },
+    { "id": 39, "author": "Dickinson", "book": "", "quote": "El alma sabe más de lo que dice." },
+    { "id": 40, "author": "Mistral", "book": "", "quote": "Todo amor es viento adentro." },
+    { "id": 41, "author": "Enríquez (inspirado)", "quote": "El fuego siempre deja una historia." },
+    { "id": 42, "author": "Lispector (inspirado)", "quote": "Soy hecha de instantes." },
+    { "id": 43, "author": "Woolf", "quote": "La luz también hiere." },
+    { "id": 44, "author": "Plath", "quote": "A veces la luna pesa." },
+    { "id": 45, "author": "Kahlo", "quote": "Lo que amo, lo nombro." },
+    { "id": 46, "author": "Brontë", "quote": "La tormenta escribe en mí." },
+    { "id": 47, "author": "Storni", "quote": "Hay mares dentro mío." },
+    { "id": 48, "author": "Pizarnik (inspirado)", "quote": "Soy una puerta hacia adentro." },
+    { "id": 49, "author": "Beauvoir", "quote": "Elegir es nacer." },
+    { "id": 50, "author": "Original", "quote": "Te toco con el pensamiento para no romperte." },
+     { "id": 51, "author": "Roland Barthes", "book": "Fragmentos de un discurso amoroso", "quote": "Te vuelvo signo porque no sé nombrarte." },
+    { "id": 52, "author": "Roland Barthes", "book": "Fragmentos de un discurso amoroso", "quote": "Enamorarse es escribir con el cuerpo del otro." },
+    { "id": 53, "author": "Roland Barthes", "book": "Fragmentos de un discurso amoroso", "quote": "Te deseo allí donde no estás." },
+    { "id": 54, "author": "Roland Barthes", "book": "Fragmentos de un discurso amoroso", "quote": "El amor es un idioma sin traducción." },
+
+    { "id": 55, "author": "Marguerite Duras", "book": "", "quote": "Te pienso como si respirar dependiera de eso." },
+    { "id": 56, "author": "Marguerite Duras", "book": "", "quote": "No sé amar sin incendiar algo." },
+
+    { "id": 57, "author": "Alejandra Pizarnik", "book": "", "quote": "Me abrazo a lo que no existe para no caer." },
+    { "id": 58, "author": "Alejandra Pizarnik", "book": "", "quote": "Quisiera ser silencio para tocarte más hondo." },
+
+    { "id": 59, "author": "Clarice Lispector", "book": "", "quote": "Quien ama inventa." },
+    { "id": 60, "author": "Clarice Lispector", "book": "", "quote": "Mi deseo empieza donde me callo." },
+
+    { "id": 61, "author": "María Zambrano", "book": "", "quote": "La herida también piensa." },
+    { "id": 62, "author": "María Zambrano", "book": "", "quote": "Lo eterno cabe en un gesto." },
+
+    { "id": 63, "author": "Sylvia Plath", "book": "", "quote": "Ardo incluso cuando no me ves." },
+    { "id": 64, "author": "Sylvia Plath", "book": "", "quote": "A veces la piel habla más que uno." },
+
+    { "id": 65, "author": "Anne Carson", "book": "", "quote": "El deseo tiene su propia inteligencia." },
+    { "id": 66, "author": "Anne Carson", "book": "", "quote": "Me enamoro de lo que aún no dijiste." },
+
+    { "id": 67, "author": "Cristina Peri Rossi", "book": "", "quote": "El cuerpo recuerda lo que la mente niega." },
+    { "id": 68, "author": "Cristina Peri Rossi", "book": "", "quote": "La distancia también es una forma de tenerte." },
+
+    { "id": 69, "author": "Idea Vilariño", "book": "", "quote": "Te quise como se quiere lo que duele." },
+    { "id": 70, "author": "Idea Vilariño", "book": "", "quote": "No volverás, y ese es todo el poema." },
+
+    { "id": 71, "author": "Emily Dickinson", "book": "", "quote": "Mi alma conversa contigo en secreto." },
+    { "id": 72, "author": "Emily Dickinson", "book": "", "quote": "Lo infinito cabe en un instante claro." },
+
+    { "id": 73, "author": "Chantal Maillard", "book": "", "quote": "Lo que miro también me mira." },
+    { "id": 74, "author": "Chantal Maillard", "book": "", "quote": "La piel piensa en sus propios verbos." },
+
+    { "id": 75, "author": "Erica Jong", "book": "", "quote": "El deseo es más honesto que las palabras." },
+    { "id": 76, "author": "Erica Jong", "book": "", "quote": "No hay libertad sin un poco de vértigo." },
+
+    { "id": 77, "author": "Hilda Hilst", "book": "", "quote": "Te deseo con la parte más animal del alma." },
+    { "id": 78, "author": "Hilda Hilst", "book": "", "quote": "Lo erótico es un diálogo sin idioma." },
+
+    { "id": 79, "author": "Lucía Berlin", "book": "", "quote": "Todo duele menos cuando lo cuento." },
+    { "id": 80, "author": "Lucía Berlin", "book": "", "quote": "Me sostuve de lo pequeño para no caer." },
+
+    { "id": 81, "author": "Mariana Enríquez (inspirado)", "book": "", "quote": "Tu sombra conoce mis secretos." },
+    { "id": 82, "author": "Mariana Enríquez (inspirado)", "book": "", "quote": "El deseo es un temblor que no se apaga." },
+
+    { "id": 83, "author": "Anaïs Nin (inspirado)", "book": "", "quote": "Te nombro para encenderte." },
+    { "id": 84, "author": "Anaïs Nin (inspirado)", "book": "", "quote": "Mi deseo te escribe con la boca." },
+
+    { "id": 85, "author": "Original", "book": "", "quote": "Donde te pienso, el mundo mejora." },
+    { "id": 86, "author": "Original", "book": "", "quote": "A veces te deseo como si fuera urgente respirar." },
+
+    { "id": 87, "author": "Original", "book": "", "quote": "Tu risa me desordena el alma." },
+    { "id": 88, "author": "Original", "book": "", "quote": "Te guardo en lugares donde no llega la memoria." },
+
+    { "id": 89, "author": "Original", "book": "", "quote": "Tenés una forma de mirarme que me vuelve poema." },
+    { "id": 90, "author": "Original", "book": "", "quote": "Si tu boca fuera un verso, me quedaría a vivir ahí." },
+
+    { "id": 91, "author": "Original", "book": "", "quote": "Te deseo en futuros que aún no existen." },
+    { "id": 92, "author": "Original", "book": "", "quote": "Hay piel que reconoce antes que la mente." },
+
+    { "id": 93, "author": "Original", "book": "", "quote": "El silencio entre nosotras también respira." },
+    { "id": 94, "author": "Original", "book": "", "quote": "Lo que siento por vos no cabe en las palabras que tengo." },
+
+    { "id": 95, "author": "Original", "book": "", "quote": "Muerdo el aire que dejás cuando te vas." },
+    { "id": 96, "author": "Original", "book": "", "quote": "Tu nombre me late distinto." },
+
+    { "id": 97, "author": "Original", "book": "", "quote": "Si te pienso fuerte, aparecés." },
+    { "id": 98, "author": "Original", "book": "", "quote": "Me gusta cuando tu presencia desarma la habitación." },
+
+    { "id": 99, "author": "Original", "book": "", "quote": "Te deseo sin metáforas: así, directo." },
+    { "id": 100, "author": "Original", "book": "", "quote": "Hay besos que todavía no te di y ya me queman." },
+      { "id": 101, "author": "Marguerite Yourcenar", "quote": "Nada es más real que un cuerpo que se entrega." },
+    { "id": 102, "author": "Marguerite Yourcenar", "quote": "Lo que perdemos nos funda." },
+
+    { "id": 103, "author": "Clarice Lispector (inspirado)", "quote": "Lo que no digo me vive por dentro." },
+    { "id": 104, "author": "Clarice Lispector (inspirado)", "quote": "Hay silencios que arden como piel." },
+
+    { "id": 105, "author": "Hilda Hilst", "quote": "El deseo es un hambre que no se sacia con palabras." },
+    { "id": 106, "author": "Hilda Hilst", "quote": "Cuando te pienso, el cuerpo me responde." },
+
+    { "id": 107, "author": "Sylvia Plath (inspirado)", "quote": "Lo que callo pesa más que mi voz." },
+    { "id": 108, "author": "Sylvia Plath (inspirado)", "quote": "Quisiera habitar mi propia intensidad sin miedo." },
+
+    { "id": 109, "author": "Anne Sexton", "quote": "Amo sin remedio y sin prudencia." },
+    { "id": 110, "author": "Anne Sexton", "quote": "La locura sabe mi nombre." },
+
+    { "id": 111, "author": "Emily Dickinson (inspirado)", "quote": "Lo eterno cabe en un suspiro tuyo." },
+    { "id": 112, "author": "Emily Dickinson (inspirado)", "quote": "Me basta tu gesto para creer." },
+
+    { "id": 113, "author": "Alejandra Pizarnik (inspirado)", "quote": "Mi sombra te busca incluso cuando duermo." },
+    { "id": 114, "author": "Alejandra Pizarnik (inspirado)", "quote": "Tu nombre abre cuartos oscuros en mí." },
+
+    { "id": 115, "author": "Chimamanda Ngozi Adichie", "quote": "Callar también es una forma de perder." },
+    { "id": 116, "author": "Chimamanda Ngozi Adichie", "quote": "Tu voz crea el mundo donde existo." },
+
+    { "id": 117, "author": "Isabel Allende (inspirado)", "quote": "La memoria es un animal que no se domestica." },
+    { "id": 118, "author": "Isabel Allende (inspirado)", "quote": "Amar es reconocer lo sagrado en lo cotidiano." },
+
+    { "id": 119, "author": "Anaïs Nin", "quote": "El erotismo es un encuentro entre almas." },
+    { "id": 120, "author": "Anaïs Nin", "quote": "Me desnudo en palabras cuando no puedo hacerlo en la piel." },
+
+    { "id": 121, "author": "Simone de Beauvoir (inspirado)", "quote": "La libertad se afila en cada decisión." },
+    { "id": 122, "author": "Simone de Beauvoir (inspirado)", "quote": "Ser mujer es reinventarse cada día." },
+
+    { "id": 123, "author": "Gabriela Mistral (inspirado)", "quote": "Lo que amo se vuelve viento y me abraza." },
+    { "id": 124, "author": "Gabriela Mistral (inspirado)", "quote": "Hay ternuras que curan la vida entera." },
+
+    { "id": 125, "author": "Virginia Woolf (inspirado)", "quote": "Mi mente es un cuarto que no termina nunca." },
+    { "id": 126, "author": "Virginia Woolf (inspirado)", "quote": "No temo pensar lo imposible." },
+
+    { "id": 127, "author": "Mariana Enríquez", "quote": "Los fantasmas siempre dicen la verdad." },
+    { "id": 128, "author": "Mariana Enríquez", "quote": "El miedo revela lo que amamos." },
+
+    { "id": 129, "author": "Original", "quote": "Te deseo donde empieza tu voz." },
+    { "id": 130, "author": "Original", "quote": "Mi cuerpo te reconoce antes que yo." },
+
+    { "id": 131, "author": "Original", "quote": "Hay miradas que desnudan más que las manos." },
+    { "id": 132, "author": "Original", "quote": "Te pienso y algo se abre en mí." },
+
+    { "id": 133, "author": "Margaret Atwood", "quote": "Las historias nos protegen del olvido." },
+    { "id": 134, "author": "Margaret Atwood", "quote": "La esperanza es un acto de rebelión." },
+
+    { "id": 135, "author": "Carson McCullers", "quote": "El amor late más fuerte en la soledad." },
+    { "id": 136, "author": "Carson McCullers", "quote": "Hay verdades que solo existen cuando las nombro." },
+
+    { "id": 137, "author": "Zadie Smith", "quote": "Ser otra es a veces la única salida." },
+    { "id": 138, "author": "Zadie Smith", "quote": "La vulnerabilidad es mi forma de valentía." },
+
+    { "id": 139, "author": "Hannah Arendt", "quote": "Pensar es un acto de resistencia." },
+    { "id": 140, "author": "Hannah Arendt", "quote": "La verdad incomoda porque transforma." },
+
+    { "id": 141, "author": "Original", "quote": "Me tiemblan los pensamientos cuando te acerco." },
+    { "id": 142, "author": "Original", "quote": "Tu risa me desarma sin pedir permiso." },
+
+    { "id": 143, "author": "Original", "quote": "Lo que siento por vos no ocupa lugar, pero pesa." },
+    { "id": 144, "author": "Original", "quote": "Tu nombre es mi manera favorita de perder la seriedad." },
+
+    { "id": 145, "author": "Renata Adler", "quote": "Lo que digo siempre es menos que lo que siento." },
+    { "id": 146, "author": "Renata Adler", "quote": "El amor está hecho de interrupciones." },
+
+    { "id": 147, "author": "Susan Sontag", "quote": "El dolor también es un lenguaje." },
+    { "id": 148, "author": "Susan Sontag", "quote": "Me sostengo en mis contradicciones." },
+
+    { "id": 149, "author": "Original", "quote": "Te quiero como se quiere lo que no se explica." },
+    { "id": 150, "author": "Original", "quote": "Tu sombra y la mía se entienden mejor que nosotras." },
+
+    { "id": 151, "author": "Original", "quote": "Hay abrazos que corrigen el mundo." },
+    { "id": 152, "author": "Original", "quote": "Si te toco, se me ordena la vida." },
+
+    { "id": 153, "author": "Alejandra Pizarnik (inspirado)", "quote": "Mi deseo respira en la grieta de tus palabras." },
+    { "id": 154, "author": "Alejandra Pizarnik (inspirado)", "quote": "Hay heridas que abren luz." },
+
+    { "id": 155, "author": "Nelly Sachs", "quote": "La oscuridad también tiene su rosa." },
+    { "id": 156, "author": "Nelly Sachs", "quote": "El dolor canta en idiomas que no conozco." },
+
+    { "id": 157, "author": "Rupi Kaur", "quote": "Me hice mujer con mis propias manos." },
+    { "id": 158, "author": "Rupi Kaur", "quote": "Mi cuerpo merece toda mi ternura." },
+
+    { "id": 159, "author": "Original", "quote": "Cuando me mirás así, pierdo mi defensa." },
+    { "id": 160, "author": "Original", "quote": "Tu voz me acomoda el alma." },
+
+    { "id": 161, "author": "Original", "quote": "Lo que siento se me nota en la respiración." },
+    { "id": 162, "author": "Original", "quote": "Quisiera quedarme a vivir en tu gesto favorito." },
+
+    { "id": 163, "author": "Original", "quote": "Tus manos hablan un idioma que entiendo sin aprender." },
+    { "id": 164, "author": "Original", "quote": "Hay besos que escriben capítulos enteros." },
+
+    { "id": 165, "author": "Original", "quote": "Si me sonreís, se me olvida la tormenta." },
+    { "id": 166, "author": "Original", "quote": "Me gusta quién soy cuando me pensás." },
+
+    { "id": 167, "author": "Hélène Cixous", "quote": "Escribo para no desaparecer." },
+    { "id": 168, "author": "Hélène Cixous", "quote": "El cuerpo es un texto vulnerable." },
+
+    { "id": 169, "author": "Original", "quote": "Te encuentro incluso cuando no te busco." },
+    { "id": 170, "author": "Original", "quote": "Hay personas que son refugio antes de ser abrazo." },
+
+    { "id": 171, "author": "Original", "quote": "Me enamoro de lo que te hace reír." },
+    { "id": 172, "author": "Original", "quote": "Lo mejor de vos es lo que no sabés que tenés." },
+
+    { "id": 173, "author": "Original", "quote": "Te deseo más de lo que puedo decir sin ruborizarme." },
+    { "id": 174, "author": "Original", "quote": "Tu presencia es un caos hermoso." },
+
+    { "id": 175, "author": "Original", "quote": "A veces, solo quiero que me mires un rato." },
+    { "id": 176, "author": "Original", "quote": "Tu forma de existir me inspira." },
+
+    { "id": 177, "author": "Original", "quote": "Quisiera hacerte un lugar dentro de mi calma." },
+    { "id": 178, "author": "Original", "quote": "Si te abrazo fuerte, me vuelvo casa." },
+
+    { "id": 179, "author": "Original", "quote": "Hay cosas que solo quiero contarte a vos." },
+    { "id": 180, "author": "Original", "quote": "Tenés una manera suave de revolucionarme." },
+
+    { "id": 181, "author": "Original", "quote": "Me quedo a vivir en tu forma de decir mi nombre." },
+    { "id": 182, "author": "Original", "quote": "Tu silencio es una brújula para mí." },
+
+    { "id": 183, "author": "Original", "quote": "Hay deseos que solo existen si te pienso." },
+    { "id": 184, "author": "Original", "quote": "Te escucho incluso cuando escribís." },
+
+    { "id": 185, "author": "Original", "quote": "No hace falta tocarte para sentirte." },
+    { "id": 186, "author": "Original", "quote": "Lo nuestro respira aparte." },
+
+    { "id": 187, "author": "Original", "quote": "Donde otros ven caos, yo te encuentro." },
+    { "id": 188, "author": "Original", "quote": "Tu ternura me descifra sin lastimar." },
+
+    { "id": 189, "author": "Original", "quote": "Lo que me das sin darte cuenta es lo más valioso." },
+    { "id": 190, "author": "Original", "quote": "Hay nombres que se sienten como hogar: el tuyo." },
+
+    { "id": 191, "author": "Original", "quote": "A veces solo quiero volver a escucharte decir hola." },
+    { "id": 192, "author": "Original", "quote": "Me conmueve que existas." },
+
+    { "id": 193, "author": "Original", "quote": "Tu alegría me ordena la piel." },
+    { "id": 194, "author": "Original", "quote": "Te pienso y algo florece." },
+
+    { "id": 195, "author": "Original", "quote": "Mi deseo te reconoce entre mil voces." },
+    { "id": 196, "author": "Original", "quote": "Hay verdades que solo existen si las susurrás." },
+
+    { "id": 197, "author": "Original", "quote": "Quisiera dormir en la calma de tu pecho." },
+    { "id": 198, "author": "Original", "quote": "Soy mejor cuando te hablo." },
+
+    { "id": 199, "author": "Original", "quote": "El mundo es más suave cuando estás." },
+    { "id": 200, "author": "Original", "quote": "Lo que siento por vos es simple y enorme." },
+
+    { "id": 101, "author": "Marguerite Yourcenar", "quote": "Nada es más real que un cuerpo que se entrega." },
+    { "id": 102, "author": "Marguerite Yourcenar", "quote": "Lo que perdemos nos funda." },
+
+    { "id": 103, "author": "Clarice Lispector (inspirado)", "quote": "Lo que no digo me vive por dentro." },
+    { "id": 104, "author": "Clarice Lispector (inspirado)", "quote": "Hay silencios que arden como piel." },
+
+    { "id": 105, "author": "Hilda Hilst", "quote": "El deseo es un hambre que no se sacia con palabras." },
+    { "id": 106, "author": "Hilda Hilst", "quote": "Cuando te pienso, el cuerpo me responde." },
+
+    { "id": 107, "author": "Sylvia Plath (inspirado)", "quote": "Lo que callo pesa más que mi voz." },
+    { "id": 108, "author": "Sylvia Plath (inspirado)", "quote": "Quisiera habitar mi propia intensidad sin miedo." },
+
+    { "id": 109, "author": "Anne Sexton", "quote": "Amo sin remedio y sin prudencia." },
+    { "id": 110, "author": "Anne Sexton", "quote": "La locura sabe mi nombre." },
+
+    { "id": 111, "author": "Emily Dickinson (inspirado)", "quote": "Lo eterno cabe en un suspiro tuyo." },
+    { "id": 112, "author": "Emily Dickinson (inspirado)", "quote": "Me basta tu gesto para creer." },
+
+    { "id": 113, "author": "Alejandra Pizarnik (inspirado)", "quote": "Mi sombra te busca incluso cuando duermo." },
+    { "id": 114, "author": "Alejandra Pizarnik (inspirado)", "quote": "Tu nombre abre cuartos oscuros en mí." },
+
+    { "id": 115, "author": "Chimamanda Ngozi Adichie", "quote": "Callar también es una forma de perder." },
+    { "id": 116, "author": "Chimamanda Ngozi Adichie", "quote": "Tu voz crea el mundo donde existo." },
+
+    { "id": 117, "author": "Isabel Allende (inspirado)", "quote": "La memoria es un animal que no se domestica." },
+    { "id": 118, "author": "Isabel Allende (inspirado)", "quote": "Amar es reconocer lo sagrado en lo cotidiano." },
+
+    { "id": 119, "author": "Anaïs Nin", "quote": "El erotismo es un encuentro entre almas." },
+    { "id": 120, "author": "Anaïs Nin", "quote": "Me desnudo en palabras cuando no puedo hacerlo en la piel." },
+
+    { "id": 121, "author": "Simone de Beauvoir (inspirado)", "quote": "La libertad se afila en cada decisión." },
+    { "id": 122, "author": "Simone de Beauvoir (inspirado)", "quote": "Ser mujer es reinventarse cada día." },
+
+    { "id": 123, "author": "Gabriela Mistral (inspirado)", "quote": "Lo que amo se vuelve viento y me abraza." },
+    { "id": 124, "author": "Gabriela Mistral (inspirado)", "quote": "Hay ternuras que curan la vida entera." },
+
+    { "id": 125, "author": "Virginia Woolf (inspirado)", "quote": "Mi mente es un cuarto que no termina nunca." },
+    { "id": 126, "author": "Virginia Woolf (inspirado)", "quote": "No temo pensar lo imposible." },
+
+    { "id": 127, "author": "Mariana Enríquez", "quote": "Los fantasmas siempre dicen la verdad." },
+    { "id": 128, "author": "Mariana Enríquez", "quote": "El miedo revela lo que amamos." },
+
+    { "id": 129, "author": "Margaret Atwood (inspirado)", "quote": "El deseo también es supervivencia." },
+    { "id": 130, "author": "Margaret Atwood (inspirado)", "quote": "La esperanza es un arma." },
+
+    { "id": 131, "author": "Carson McCullers (inspirado)", "quote": "El corazón late más fuerte en la soledad." },
+    { "id": 132, "author": "Carson McCullers (inspirado)", "quote": "Hay cosas que solo existen si las nombro." },
+
+    { "id": 133, "author": "Zadie Smith (inspirado)", "quote": "La vulnerabilidad también es un triunfo." },
+    { "id": 134, "author": "Zadie Smith (inspirado)", "quote": "Somos muchas versiones de nosotras mismas." },
+
+    { "id": 135, "author": "Hannah Arendt", "quote": "Pensar es un acto de resistencia." },
+    { "id": 136, "author": "Hannah Arendt", "quote": "La verdad incomoda porque puede cambiarlo todo." },
+
+    { "id": 137, "author": "Hélène Cixous", "quote": "Escribo para no desaparecer." },
+    { "id": 138, "author": "Hélène Cixous", "quote": "El cuerpo es un texto vulnerable." },
+
+    { "id": 139, "author": "Lucía Berlin (inspirado)", "quote": "La ternura aparece en los lugares más inesperados." },
+    { "id": 140, "author": "Lucía Berlin (inspirado)", "quote": "Contar algo es a veces sobrevivirlo." },
+
+    { "id": 141, "author": "Anne Carson", "quote": "El deseo tiene su propia inteligencia." },
+    { "id": 142, "author": "Anne Carson", "quote": "Me enamoro de lo que aún no dijiste." },
+
+    { "id": 143, "author": "María Zambrano", "quote": "Las sombras también enseñan luz." },
+    { "id": 144, "author": "María Zambrano", "quote": "Pensar es escucharse por dentro." },
+
+    { "id": 145, "author": "Nelly Sachs", "quote": "La oscuridad también tiene su rosa." },
+    { "id": 146, "author": "Nelly Sachs", "quote": "El dolor canta en idiomas antiguos." },
+
+    { "id": 147, "author": "Erica Jong", "quote": "La libertad se aprende en la piel." },
+    { "id": 148, "author": "Erica Jong", "quote": "El vértigo es la antesala del vuelo." },
+
+    { "id": 149, "author": "Sor Juana Inés de la Cruz (inspirado)", "quote": "Callar es también un arte." },
+    { "id": 150, "author": "Sor Juana Inés de la Cruz (inspirado)", "quote": "La razón puede arder si la enciende el alma." },
+
+    { "id": 151, "author": "Emily Brontë (inspirado)", "quote": "La tormenta también es un hogar." },
+    { "id": 152, "author": "Emily Brontë (inspirado)", "quote": "Lo salvaje sabe más que el habla." },
+
+    { "id": 153, "author": "Natalia Ginzburg", "quote": "A veces la verdad es solo una forma de ternura." },
+    { "id": 154, "author": "Natalia Ginzburg", "quote": "Lo simple sostiene lo que somos." },
+
+    { "id": 155, "author": "Rupi Kaur", "quote": "Mi cuerpo es un libro sagrado." },
+    { "id": 156, "author": "Rupi Kaur", "quote": "La herida también florece." },
+
+    { "id": 157, "author": "Ida Vitale", "quote": "La palabra es un pájaro que aprende a volar." },
+    { "id": 158, "author": "Ida Vitale", "quote": "En lo mínimo vive lo eterno." },
+
+    { "id": 159, "author": "Camila Sosa Villada", "quote": "La piel sabe quién somos antes que nadie." },
+    { "id": 160, "author": "Camila Sosa Villada", "quote": "El deseo es una patria posible." },
+
+    { "id": 161, "author": "Elena Garro", "quote": "El tiempo también sueña." },
+    { "id": 162, "author": "Elena Garro", "quote": "Hay realidades que solo se abren con ternura." },
+
+    { "id": 163, "author": "Sylvia Plath (inspirado)", "quote": "A veces la luna pesa, pero ilumina igual." },
+    { "id": 164, "author": "Sylvia Plath (inspirado)", "quote": "La esperanza es un hilo delgado pero fuerte." },
+
+    { "id": 165, "author": "Gabriela Mistral (inspirado)", "quote": "Todo amor deja viento adentro." },
+    { "id": 166, "author": "Gabriela Mistral (inspirado)", "quote": "La luz tiene su propia ternura." },
+
+    { "id": 167, "author": "Frida Kahlo (inspirado)", "quote": "Lo que amo, lo nombro para que viva." },
+    { "id": 168, "author": "Frida Kahlo (inspirado)", "quote": "El dolor también pinta." },
+
+    { "id": 169, "author": "Marcel Proust", "quote": "El verdadero viaje comienza al recordar." },
+    { "id": 170, "author": "Marcel Proust", "quote": "Los sentimientos más profundos son los más silenciosos." },
+
+    { "id": 171, "author": "Rainer Maria Rilke", "quote": "Ama lo que te exige crecer." },
+    { "id": 172, "author": "Rainer Maria Rilke", "quote": "La soledad es un espacio para transformarse." },
+
+    { "id": 173, "author": "Clarice Lispector", "quote": "El misterio también es una forma de verdad." },
+    { "id": 174, "author": "Clarice Lispector", "quote": "Soy hecha de instantes." },
+
+    { "id": 175, "author": "Virginia Woolf", "quote": "No hay barrera que resista a una mente libre." },
+    { "id": 176, "author": "Virginia Woolf", "quote": "Me muevo entre habitaciones interiores." },
+
+    { "id": 177, "author": "Alejandra Pizarnik", "quote": "La noche se abre como un párpado." },
+    { "id": 178, "author": "Alejandra Pizarnik", "quote": "Esa sombra soy yo." },
+
+    { "id": 179, "author": "Simone Weil", "quote": "La atención es la forma más pura de generosidad." },
+    { "id": 180, "author": "Simone Weil", "quote": "Lo esencial es invisible porque es exigente." },
+
+    { "id": 181, "author": "Mariana Enríquez (inspirado)", "quote": "La noche guarda secretos que no duermen." },
+    { "id": 182, "author": "Mariana Enríquez (inspirado)", "quote": "La oscuridad sabe más que la razón." },
+
+    { "id": 183, "author": "Anaïs Nin", "quote": "Vemos lo que somos capaces de amar." },
+    { "id": 184, "author": "Anaïs Nin", "quote": "Mi deseo es un idioma sin patria." },
+
+    { "id": 185, "author": "Emily Dickinson", "quote": "El alma sabe más de lo que dice." },
+    { "id": 186, "author": "Emily Dickinson", "quote": "Nos medimos cuando nos ponemos de pie." },
+
+    { "id": 187, "author": "Mary Shelley", "quote": "El mal suele disfrazarse de felicidad." },
+    { "id": 188, "author": "Mary Shelley", "quote": "La creación es también una forma de condena." },
+
+    { "id": 189, "author": "Jane Austen (inspirado)", "quote": "Hay silencios que dicen lo necesario." },
+    { "id": 190, "author": "Jane Austen (inspirado)", "quote": "Las cicatrices confirman nuestra historia." },
+
+    { "id": 191, "author": "Simone de Beauvoir", "quote": "Que nada nos defina." },
+    { "id": 192, "author": "Simone de Beauvoir", "quote": "No se nace mujer: se llega a serlo." },
+
+    { "id": 193, "author": "Sor Juana Inés de la Cruz", "quote": "No estudio por saber más, sino por ignorar menos." },
+    { "id": 194, "author": "Sor Juana Inés de la Cruz", "quote": "Hombres necios que acusáis sin razón." },
+
+    { "id": 195, "author": "Gabriela Mistral", "quote": "Hay sonrisas que lloran con bondad." },
+    { "id": 196, "author": "Gabriela Mistral", "quote": "El futuro de los niños es siempre hoy." },
+
+    { "id": 197, "author": "Clarice Lispector", "quote": "Arde lo que no digo." },
+    { "id": 198, "author": "Clarice Lispector", "quote": "El cuerpo sabe antes que el pensamiento." },
+
+    { "id": 199, "author": "Frida Kahlo", "quote": "Yo te cielo." },
+    { "id": 200, "author": "Frida Kahlo", "quote": "Lo que amo, lo nombro." }
+  ]
+}

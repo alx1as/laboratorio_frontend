@@ -1,0 +1,65 @@
+/* ================================================================
+   ESTILO GLOBAL — ESTÉTICA EDITORIAL MODERNA
+   Blanco puro, espacio, tipografías nobles, sin ruidos visuales.
+================================================================ */
+
+/* RESET / BASE */
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100%;
+  background: #ffffff;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+  color: #111;
+}
+
+/* Asegura consistencia en spacing y bordes */
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+/* Eliminar scroll horizontal accidental */
+html, body {
+  overflow-x: hidden;
+}
+
+/* Quitar subrayados por defecto en mobile */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Quitar outline feo por defecto en navegadores */
+button, input, textarea, select {
+  outline: none;
+}
+
+/* Estética de textos seleccionados */
+::selection {
+  background: #111;
+  color: white;
+}
+
+/* Estética editorial para titles globales */
+h1, h2, h3, h4 {
+  font-family: "Playfair Display", serif;
+  margin: 0;
+}
+
+/* Animación suave para todas las páginas */
+.page-transition {
+  animation: fadePage 0.35s ease;
+}
+
+@keyframes fadePage {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

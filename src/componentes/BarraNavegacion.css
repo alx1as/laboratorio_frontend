@@ -1,0 +1,160 @@
+/* ----------------------------------------------------
+   NAVBAR EDITORIAL
+-----------------------------------------------------*/
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 18px 42px;
+  background: white;
+  border-bottom: 1px solid #e6e6e6;
+  position: sticky;
+  top: 0;
+  z-index: 20;
+}
+
+/* LOGO TIPO REVISTA */
+.nav-logo {
+  text-decoration: none;
+  color: #111;
+  display: flex;
+  flex-direction: column;
+  line-height: 1.15;
+}
+
+.nav-logo-linea1 {
+  font-family: "Playfair Display", serif;
+  font-size: 1.5rem;
+  font-weight: 800;
+  letter-spacing: 0.5px;
+}
+
+.nav-logo-linea2 {
+  font-family: "Playfair Display", serif;
+  margin-top: -4px;
+  font-size: 1.15rem;
+  letter-spacing: 0.5px;
+}
+
+/* LINKS DESKTOP */
+.nav-derecha {
+  display: flex;
+  gap: 28px;
+  align-items: center;
+}
+
+.nav-link {
+  text-decoration: none;
+  font-family: "Inter", sans-serif;
+  font-size: 0.92rem;
+  font-weight: 500;
+  color: #333;
+  padding-bottom: 2px;
+  position: relative;
+}
+
+.nav-link::after {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0%;
+  height: 2px;
+  background: #111;
+  transition: width 0.25s ease;
+}
+
+.nav-link:hover::after {
+  width: 100%;
+}
+
+.nav-logout {
+  font-family: "Inter", sans-serif;
+  font-size: 0.92rem;
+  font-weight: 500;
+  color: #a83a3a;
+  cursor: pointer;
+}
+
+/* ----------------------------------------------------
+   HAMBURGUESA
+-----------------------------------------------------*/
+.nav-hamburguesa {
+  display: none;
+  flex-direction: column;
+  cursor: pointer;
+  gap: 5px;
+}
+
+.bar {
+  width: 24px;
+  height: 3px;
+  background: #111;
+  transition: 0.3s ease;
+}
+
+/* Animación al abrir */
+.bar.open:nth-child(1) {
+  transform: translateY(8px) rotate(45deg);
+}
+.bar.open:nth-child(2) {
+  opacity: 0;
+}
+.bar.open:nth-child(3) {
+  transform: translateY(-8px) rotate(-45deg);
+}
+
+/* ----------------------------------------------------
+   MOBILE MENU
+-----------------------------------------------------*/
+.nav-mobile {
+  display: none;
+  flex-direction: column;
+  background: white;
+  border-top: 1px solid #ddd;
+  padding: 18px 24px;
+  text-align: right;
+}
+
+.nav-mobile a,
+.nav-mobile span {
+  padding: 10px 0;
+  font-size: 1rem;
+  font-family: "Inter";
+  color: #222;
+  text-decoration: none;
+}
+
+.nav-mobile span {
+  color: #a33;
+}
+
+/* Mostrar menú */
+.nav-mobile.mostrar {
+  display: flex;
+}
+
+/* ----------------------------------------------------
+   BREAKPOINT
+-----------------------------------------------------*/
+@media (max-width: 750px) {
+  .nav {
+    padding: 16px 20px;
+  }
+
+  .nav-derecha {
+    display: none;
+  }
+
+  .nav-hamburguesa {
+    display: flex;
+  }
+
+  .nav-logo-linea1 {
+    font-size: 1.35rem;
+  }
+
+  .nav-logo-linea2 {
+    font-size: 1rem;
+  }
+}
