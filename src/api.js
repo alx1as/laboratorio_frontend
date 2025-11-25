@@ -1,4 +1,4 @@
- const API = "https://bk-laboratorio-fvfzcngzajakcmbk.eastus2-01.azurewebsites.net/api";
+ const API = "https://bk-laboratorio-fvfzcngzajakcmbk.eastus2-01.azurewebsites.net/";
 
 export async function apiGet(path) {
   const res = await fetch(`${API}${path}`, {
