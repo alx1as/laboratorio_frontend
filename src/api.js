@@ -1,4 +1,4 @@
-const API = "http://localhost:5000/api";
+ const API = "https://hartistashartantes-e4aebga5evd7dgbd.eastus2-01.azurewebsites.net/api";
 
 export async function apiGet(path) {
   const res = await fetch(`${API}${path}`, {
